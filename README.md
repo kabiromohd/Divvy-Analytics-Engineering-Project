@@ -28,6 +28,9 @@ The data is provided by Divvy Bikeshare and contains information about bike ride
 - dbt- Analytics Engineering
 - Google Looker studio - Data Visualization
 
+<img width="1536" height="1024" alt="div" src="https://github.com/user-attachments/assets/d513f5b0-ab3c-43f7-80e3-15a98c6620bf" />
+
+
 Note: The technologies used in the project are all from the DE Zoomcamp course, so if in doubt refer to course materials and videos for clarification
 
 
