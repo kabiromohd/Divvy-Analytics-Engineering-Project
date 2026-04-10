@@ -1,4 +1,4 @@
-# Divvy-Analytics-Dashboard-Project
+# Divvy Data and Analytics Engineering Project
 Data Engineering Zoomcamp Capstone Project
 
 ## Purpose of project
