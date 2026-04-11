@@ -1,5 +1,4 @@
 # Divvy Data and Analytics Engineering Project
-Data Engineering Zoomcamp Capstone Project
 
 ## Purpose of project
 
@@ -31,9 +30,6 @@ The data is provided by Divvy Bikeshare and contains information about bike ride
 <img width="1536" height="1024" alt="div" src="https://github.com/user-attachments/assets/d513f5b0-ab3c-43f7-80e3-15a98c6620bf" />
 
 
-Note: The technologies used in the project are all from the DE Zoomcamp course, so if in doubt refer to course materials and videos for clarification
-
-
 ## Steps to reproduce project:
 
 Important: This project is intended to be easily reproducible. This section will give a thorough breakdown of how to reproduce this project
@@ -51,9 +47,9 @@ Important: This project is intended to be easily reproducible. This section will
 - Setup working Environment either a VM on GCP or on your local machine. Open your terminal, clone the project repo and then launch Kestra UI
   
 ```
-  git clone https://github.com/kabiromohd/Divvy-Analytics-Dashboard-Project.git
+  git clone https://github.com/kabiromohd/Divvy-Analytics-Engineering-Project.git
 
-  cd Divvy-Analytics-Dashboard-Project/Orchestration-kestra/
+  cd Divvy-Analytics-Engineering-Project/Orchestration-kestra/
 
   docker-compose up
 
